@@ -36,19 +36,19 @@ import { useState } from 'react';
 function Fooldalam() {
 	return (
 		<>
-			<div className="header">
-				<div className="container">
-					<div className="header-left">
-						<ul className="pull-left">
-							<li>
-								<Nav.Link href="#home">+36-20-579-6697</Nav.Link>
-							</li>
-							<li>
-								<Nav.Link href="#home">ngergely065@gmail.com</Nav.Link>
-							</li>
-						</ul>
-					</div>
+			<div className="container">
+				<div className="header-left">
+					<ul className="pull-left">
+						<li>
+							<Nav.Link href="#home">+36-20-579-6697</Nav.Link>
+						</li>
+						<li>
+							<Nav.Link href="#home">ngergely065@gmail.com</Nav.Link>
+						</li>
+					</ul>
 				</div>
+			</div>
+			<div className="header">
 				<div>
 					<Carousel>
 						<Carousel.Item>

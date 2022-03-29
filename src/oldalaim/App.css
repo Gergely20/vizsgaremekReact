@@ -1799,6 +1799,12 @@ padding-bottom: 40px;
 .header {
   background-color: #c3c3ef;
 }
+#lista{
+  font-size: 1.7rem;
+  font-family: fantasy;
+  color: crimson;
+  text-align: left;
+}
 
 @keyframes App-logo-spin {
   from {
